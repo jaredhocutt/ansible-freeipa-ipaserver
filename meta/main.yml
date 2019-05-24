@@ -1,7 +1,8 @@
-# dependencies:
-#   - role: t_woerner.ipaclient
+dependencies:
+  - jaredhocutt.freeipa_ipaclient
 
 galaxy_info:
+  role_name: freeipa_ipaserver
   author: Thomas Woerner
   description: A role to setup an iPA domain server
   company: Red Hat, Inc
