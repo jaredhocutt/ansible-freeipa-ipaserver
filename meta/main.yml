@@ -1,5 +1,4 @@
-dependencies:
-  - jaredhocutt.freeipa_ipaclient
+dependencies: []
 
 galaxy_info:
   role_name: freeipa_ipaserver
